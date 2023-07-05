@@ -1,5 +1,5 @@
 name: Aliyun Signin
-uses: ImYrS/aliyun-auto-signin@v1.5.5
+
 
 on:
   schedule:
